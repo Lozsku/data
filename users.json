@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "roles": ["admin", "editor"]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "roles": ["viewer"]
+    },
+    {
+      "id": 3,
+      "name": "Samuel Green",
+      "email": "samuelgreen@example.com",
+      "roles": ["editor", "viewer"]
+    },
+    {
+      "id": 4,
+      "name": "Alice Johnson",
+      "email": "alicejohnson@example.com",
+      "roles": ["viewer"]
+    }
+  ]
+}
